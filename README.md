@@ -1,4 +1,4 @@
-##AngularJS Place Kitten
+##AngularJS Placekitten
 ###Because other place holders aren't as cute
 
 Have you ever needed an image placeholder in your AngularJS application?
@@ -23,5 +23,6 @@ Well you're in luck because Placekitten not only makes variable sized image plac
   ![kitty](http://placekitten.com/g/400/500)
   
   
+
 
 Big thanks to Mark James and [placekitten.com](http://placekitten.com) for the image api
