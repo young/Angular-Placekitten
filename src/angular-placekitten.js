@@ -6,6 +6,6 @@ angular.module('Angular-Placekitten', [])
         height: '=',
         width: '='
       },
-      template: '<img src="http://placekitten.com/g/{{width || 400}}/{{ heigth || 500}}" />'
+      template: '<img src="http://placekitten.com/g/{{width || 400}}/{{height || 500}}" />'
     };
   });
