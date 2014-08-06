@@ -3,8 +3,8 @@ angular.module('Angular-Placekitten', [])
     return {
       restrict: 'E',
       scope: {
-        height: '=',
-        width: '='
+        width: '=',
+        height: '='
       },
       template: '<img src="http://placekitten.com/g/{{width || 400}}/{{height || 500}}" />'
     };
