@@ -5,6 +5,10 @@
   "authors": [
     "Jem Young"
   ],
+  "contributors": [
+    "Gord P",
+    "Alex Zak <a@alexzak.me>"
+  ],
   "description": "PlaceKitten directive for angular - Because other place holders aren't as cute",
   "main": "src/angular-placekitten.js",
   "keywords": [
