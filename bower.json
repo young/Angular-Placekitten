@@ -1,9 +1,9 @@
 {
   "name": "Angular-Placekitten",
   "version": "0.0.1",
-  "homepage": "https://github.com/A-Zak/Angular-Placekitten",
+  "homepage": "https://github.com/young/Angular-Placekitten",
   "authors": [
-    "Alex Zak <a@alexzak.me>"
+    "Jem Young"
   ],
   "description": "PlaceKitten directive for angular - Because other place holders aren't as cute",
   "main": "src/angular-placekitten.js",
