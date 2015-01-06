@@ -7,6 +7,14 @@ Have ever wished said placeholders were cuter to look at?
 
 Well you're in luck because Placekitten not only makes variable sized image placeholders, it fills them with kittens!
 
+####Installation
+ 
+ Use bower to install:
+ 
+  ```bash
+  bower install angular-placekitten
+  ```
+
 ####Usage
     
   Use the kitten directive to insert a place holder.
